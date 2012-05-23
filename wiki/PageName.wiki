@@ -1,7 +1,0 @@
-#summary One-sentence summary of this page.
-
-= Description =
-
-This plugin allows user to store the files to download for each release. An email notification can be sent to the involved persons.
-
-= Usage =
