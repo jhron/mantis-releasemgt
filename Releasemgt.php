@@ -12,7 +12,7 @@ class ReleasemgtPlugin extends MantisPlugin {
 
         $this->author = 'Vincent DEBOUT, Jiri Hron';        
         $this->contact = 'jirka.hron@gmail.com';
-        $this->url = '';            
+        $this->url = 'http://code.google.com/p/mantis-releasemgt/';            
     }
     
     function init() {
