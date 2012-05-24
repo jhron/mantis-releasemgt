@@ -1,5 +1,12 @@
 = Description =
 
-This plugin allows user to store the files to download for each release. An email notification can be sent to the involved persons.
+This plugin allows user to store the files to download for each release. An email notification can be sent to developer and/or user who reports a bug.
+
+==Features:==
+  *Email notification (to developer and/or user who reports a bug)
+  *Email templates
+
+==Requirements:==
+  *Mantis version 1.2.0 or higher.
 
 [Installation]
