@@ -3,6 +3,7 @@
 This plugin allows user to store the files to download for each release. An email notification can be sent to developer and/or user who reports a bug.
 
 ==Features:==
+  * Disk type file storage
   * Email notification (to developer and/or user who reports a bug)
   * Email templates
 
